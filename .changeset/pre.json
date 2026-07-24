@@ -235,8 +235,11 @@
   "changesets": [
     "azure-url-reader-abort-signal",
     "backend-app-connections-package",
+    "brave-falcons-connect",
     "bright-tools-listen",
+    "cli-docs-fix-readme-link",
     "connections-common-library",
+    "create-app-1784909468",
     "dependabot-5b2cea0",
     "fix-docker-node-version-alignment-docs",
     "fix-oauth-start-500-error",
@@ -244,15 +247,19 @@
     "fix-table-resizable-overflow",
     "itchy-sloths-bathe",
     "k8s-aws-account-credentials",
+    "kubernetes-backend-audit-logging",
     "mcp-audit-logging",
     "metal-connections-schema",
+    "owners-only-title-resolution",
     "quiet-connections-auth",
     "resilient-cluster-supplier",
     "secure-redirect-uris",
+    "sour-sites-stick",
     "strong-pandas-authenticate",
     "system-metadata-catalog-openapi-module",
     "system-metadata-stable-backend-defaults",
     "system-metadata-stable-backend-plugin-api",
-    "system-metadata-stable-backend-test-utils"
+    "system-metadata-stable-backend-test-utils",
+    "tidy-apes-connect"
   ]
 }

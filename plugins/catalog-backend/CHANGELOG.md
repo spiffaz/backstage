@@ -1,5 +1,12 @@
 # @backstage/plugin-catalog-backend
 
+## 3.8.2-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/integration@2.1.0-next.0
+
 ## 3.8.2-next.0
 
 ### Patch Changes
